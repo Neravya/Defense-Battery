@@ -2,8 +2,7 @@
     {
 		"name": "Defense Battery",
 		"uniques": [
-            "Triggers a [Choose a Defense Battery] event",
-	    "[This Unit] takes [100] damage"
+            "Triggers a [Choose a Defense Battery] event"
         ],
     }
 ]
