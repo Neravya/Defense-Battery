@@ -13,7 +13,7 @@
             },
             {
                 "text" : "[Tank]",
-                "triggeredUniques": ["Free [Tank] appears"]
+                "triggeredUniques": ["Free [Tank] appears <by consuming this unit>"]
             }
         ]
     }
