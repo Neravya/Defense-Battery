@@ -12,8 +12,8 @@
                 "triggeredUniques": ["Free [Great Artist] appears"]
             },
             {
-                "text" : "[Tank]",
-                "triggeredUniques": ["Free [Tank] appears <by consuming this unit>"]
+                "text" : "[Scout]",
+                "triggeredUniques": ["Free [Scout] appears <by consuming this unit>"]
             }
         ]
     }
