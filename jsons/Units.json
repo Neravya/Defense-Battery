@@ -8,8 +8,7 @@
         "obsoleteTech": "Metal Casting",
         "upgradesTo": "Swordsman",
         "uniques": [
-            "Can upgrade to [Scout] <in [Grassland] tiles>"
-        ],
+            "Can upgrade to [Scout] <upon ending a turn in a [tileFilter] tile>],
         "attackSound": "nonmetalhit",
         "civilopediaText": [
             {"text": "This is your basic, club-swinging fighter."}
