@@ -8,12 +8,7 @@
         "obsoleteTech": "Metal Casting",
         "upgradesTo": "Swordsman",
         "uniques": [
-            "May upgrade to [Spearman] through ruins-like effects",
-            
-            // === NEW: THE TRANSFORMATION TEST ===
-            "Can upgrade to [Giant Death Robot] <in a tile with [Farm]>",
-            "Can upgrade to [Great Artist] <in a tile with [Farm]>",
-            "Can upgrade to [Scout] <in a tile with [Farm]>"
+            "Can upgrade to [Scout] <in [Grassland] tiles>"
         ],
         "attackSound": "nonmetalhit",
         "civilopediaText": [
