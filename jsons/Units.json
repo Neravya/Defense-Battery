@@ -13,5 +13,16 @@
         "civilopediaText": [
             {"text": "This is your basic, club-swinging fighter."}
         ]
+    },
+    {
+    "name": "Scout",
+    "unitType": "Scout",
+    "movement": 2,
+    "strength": 5,
+    "cost": 25,
+    "uniques": [
+        "Ignores terrain cost",
+        "Can upgrade into [Warrior] <upon entering a [Tundra] tile> <for all movement>"
+    ]
     }
 ]
