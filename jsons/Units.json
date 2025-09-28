@@ -22,7 +22,7 @@
     "cost": 25,
     "uniques": [
         "Ignores terrain cost",
-        "Can upgrade into [Warrior] <upon entering a [Tundra] tile> <for all movement>"
+        "Can upgrade into [Warrior] <upon entering a [Tundra] tile>"
     ]
     }
 ]
