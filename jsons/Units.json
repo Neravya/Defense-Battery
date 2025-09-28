@@ -8,7 +8,7 @@
         "obsoleteTech": "Metal Casting",
         "upgradesTo": "Swordsman",
         "uniques": [
-            "Gains [Blitz] status for [1] turn(s) <upon entering a [Farm] tile>"],
+            "[This Unit] gains [Blitz] status for [1] turn(s) <upon entering a [Farm] tile>"],
         "attackSound": "nonmetalhit",
         "civilopediaText": [
             {"text": "This is your basic, club-swinging fighter."}
