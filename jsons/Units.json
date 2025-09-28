@@ -8,21 +8,10 @@
         "obsoleteTech": "Metal Casting",
         "upgradesTo": "Swordsman",
         "uniques": [
-            "Turn this tile into a [Tundra] tile <by consuming this unit>"],
+            "Gains [Blitz] status for [1] turn(s) <upon entering a [Farm] tile>"],
         "attackSound": "nonmetalhit",
         "civilopediaText": [
             {"text": "This is your basic, club-swinging fighter."}
         ]
-    },
-    {
-    "name": "Scout",
-    "unitType": "Scout",
-    "movement": 2,
-    "strength": 5,
-    "cost": 25,
-    "uniques": [
-        "Ignores terrain cost",
-        "Can upgrade into [Warrior] <upon entering a [Tundra] tile>"
-    ]
     }
 ]
